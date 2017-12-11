@@ -1,2 +1,2 @@
 # CURSO_HTML
-Repositorio de los ejercicios del cusro de html
+Repositorio de los ejercicios del curso de html
